@@ -1,5 +1,7 @@
 ## Welcome to Android Tutorial
 
+This tutorial does not assume that you have previous knowledge on android app development. So we'll take you from beginner's level to advance level. So bear with us. 
+
 You can use the [editor on GitHub](https://github.com/rexali/droid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
